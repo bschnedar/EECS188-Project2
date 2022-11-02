@@ -1,0 +1,7 @@
+The code is split into each part of
+hw1_1 refers to question 1 hw1_2 refers to question 2 and so on.
+Question one is split into two parts, but the other code has each 
+image commented out. Just remove the comments to set up the question.
+
+Image_submissions are the RAW of each image, the pdf in the submission file
+Also has the images present as well
